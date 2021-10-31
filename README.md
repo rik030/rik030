@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishav Rajak, Chemical Engineering Undergrad at IIT Delhi
 - 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence
 - 🌱 I’m currently learning Convolutional Neural Network
-- 💞️ I’m looking to collaborate on various ML/DL fields and projects
+- 💞️ I’m looking to collaborate on projects over various ML/DL fields 
 - 📫 You can reach me on rikorton999@gmail.com
 
 <!---
